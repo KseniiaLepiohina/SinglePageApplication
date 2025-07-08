@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/KseniiaLepiohina/SinglePageApplication.io/static/css/main.818a0779.css",
+    "main.js": "/KseniiaLepiohina/SinglePageApplication.io/static/js/main.856a6bb6.js",
+    "static/js/453.1b6b1a9b.chunk.js": "/KseniiaLepiohina/SinglePageApplication.io/static/js/453.1b6b1a9b.chunk.js",
+    "static/media/madrid.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/madrid.c052a4860477a40c1e6b.jpg",
+    "static/media/hongkong.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/hongkong.375335dbc1021042b605.jpg",
+    "static/media/italy.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/italy.bacc62f988b5feb17bf5.jpg",
+    "static/media/bg.png": "/KseniiaLepiohina/SinglePageApplication.io/static/media/bg.aaec21f828fa4bc22364.png",
+    "static/media/thai.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/thai.09e874bffe869e69b53d.jpg",
+    "static/media/abudhabi.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/abudhabi.1fc57410616c0e205026.jpg",
+    "static/media/asia.png": "/KseniiaLepiohina/SinglePageApplication.io/static/media/asia.026379a56209af1d4410.png",
+    "static/media/temples.png": "/KseniiaLepiohina/SinglePageApplication.io/static/media/temples.087fedebf181ec00da05.png",
+    "static/media/europe.png": "/KseniiaLepiohina/SinglePageApplication.io/static/media/europe.26868e8a0e758d85eeef.png",
+    "static/media/machupiccu.png": "/KseniiaLepiohina/SinglePageApplication.io/static/media/machupiccu.d9a2f99eeda0ce40284f.png",
+    "static/media/america.png": "/KseniiaLepiohina/SinglePageApplication.io/static/media/america.d3706b73236e2e57e68b.png",
+    "static/media/logo.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/logo.7cd154b5a117cb0a66dc6a99c83a6d01.svg",
+    "static/media/mappa.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/mappa.857eeb4c4bfd345c49766b82a47b6ddd.svg",
+    "static/media/fire.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/fire.41f4bdb4cf3c2575d063700f6a45822f.svg",
+    "static/media/camping.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/camping.2f94259dfb5e20e9a61f052ab600c419.svg",
+    "static/media/calendar.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/calendar.4b0854d0dc77a11cfa8876cb88aca46c.svg",
+    "static/media/instagram.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/instagram.4779021cd5aca641db9d183a180f41d0.svg",
+    "static/media/twitter.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/twitter.a99d98136d6afb568543ef5c6bfd4352.svg",
+    "index.html": "/KseniiaLepiohina/SinglePageApplication.io/index.html",
+    "static/media/trakking.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/trakking.1ad2cb18fe3881ad0864994c0516342e.svg",
+    "static/media/youtube.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/youtube.d7dd3457b6bf8e21ae21c844c32abd57.svg",
+    "static/media/Arrowleft.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/Arrowleft.b1c68ca1889da4bd2c8ae487d2a2a2e7.svg",
+    "static/media/Arrowbutton.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/Arrowbutton.a2e09ff9208862b5ce0106689e926f19.svg",
+    "static/media/Arrowright.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/Arrowright.ccaac6da830444688e947a3710ce1ba1.svg",
+    "static/media/facebook.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/facebook.4d19fb65e73df636eaef02ac35e3b166.svg",
+    "main.818a0779.css.map": "/KseniiaLepiohina/SinglePageApplication.io/static/css/main.818a0779.css.map",
+    "main.856a6bb6.js.map": "/KseniiaLepiohina/SinglePageApplication.io/static/js/main.856a6bb6.js.map",
+    "453.1b6b1a9b.chunk.js.map": "/KseniiaLepiohina/SinglePageApplication.io/static/js/453.1b6b1a9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818a0779.css",
+    "static/js/main.856a6bb6.js"
+  ]
+}
