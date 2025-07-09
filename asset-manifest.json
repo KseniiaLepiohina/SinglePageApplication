@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/KseniiaLepiohina/SinglePageApplication.io/static/css/main.818a0779.css",
-    "main.js": "/KseniiaLepiohina/SinglePageApplication.io/static/js/main.856a6bb6.js",
+    "main.css": "/KseniiaLepiohina/SinglePageApplication.io/static/css/main.a52dd7e1.css",
+    "main.js": "/KseniiaLepiohina/SinglePageApplication.io/static/js/main.6f1f781c.js",
     "static/js/453.1b6b1a9b.chunk.js": "/KseniiaLepiohina/SinglePageApplication.io/static/js/453.1b6b1a9b.chunk.js",
     "static/media/madrid.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/madrid.c052a4860477a40c1e6b.jpg",
     "static/media/hongkong.jpg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/hongkong.375335dbc1021042b605.jpg",
@@ -28,12 +28,12 @@
     "static/media/Arrowbutton.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/Arrowbutton.a2e09ff9208862b5ce0106689e926f19.svg",
     "static/media/Arrowright.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/Arrowright.ccaac6da830444688e947a3710ce1ba1.svg",
     "static/media/facebook.svg": "/KseniiaLepiohina/SinglePageApplication.io/static/media/facebook.4d19fb65e73df636eaef02ac35e3b166.svg",
-    "main.818a0779.css.map": "/KseniiaLepiohina/SinglePageApplication.io/static/css/main.818a0779.css.map",
-    "main.856a6bb6.js.map": "/KseniiaLepiohina/SinglePageApplication.io/static/js/main.856a6bb6.js.map",
+    "main.a52dd7e1.css.map": "/KseniiaLepiohina/SinglePageApplication.io/static/css/main.a52dd7e1.css.map",
+    "main.6f1f781c.js.map": "/KseniiaLepiohina/SinglePageApplication.io/static/js/main.6f1f781c.js.map",
     "453.1b6b1a9b.chunk.js.map": "/KseniiaLepiohina/SinglePageApplication.io/static/js/453.1b6b1a9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.818a0779.css",
-    "static/js/main.856a6bb6.js"
+    "static/css/main.a52dd7e1.css",
+    "static/js/main.6f1f781c.js"
   ]
 }
